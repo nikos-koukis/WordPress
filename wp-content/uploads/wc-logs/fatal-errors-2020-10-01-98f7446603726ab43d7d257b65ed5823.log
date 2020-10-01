@@ -1,0 +1,29 @@
+2020-10-01T07:12:28+00:00 CRITICAL Uncaught Error: Call to undefined function add_rewrite_endpoints() in C:\xampp\htdocs\Projects\WordPress\wp-content\themes\online-shop\functions.php:39
+Stack trace:
+#0 C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-hook.php(287): my_account_new_endpoints('')
+#1 C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Projects\WordPress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Projects\WordPress\wp-settings.php(546): do_action('init')
+#4 C:\xampp\htdocs\Projects\WordPress\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Projects\WordPress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Projects\WordPress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Projects\WordPress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\Projects\WordPress\wp-content\themes\online-shop\functions.php on line 39
+
+2020-10-01T07:12:30+00:00 CRITICAL Uncaught Error: Call to undefined function add_rewrite_endpoints() in C:\xampp\htdocs\Projects\WordPress\wp-content\themes\online-shop\functions.php:39
+Stack trace:
+#0 C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-hook.php(287): my_account_new_endpoints('')
+#1 C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Projects\WordPress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Projects\WordPress\wp-settings.php(546): do_action('init')
+#4 C:\xampp\htdocs\Projects\WordPress\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Projects\WordPress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Projects\WordPress\wp-cron.php(44): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Projects\WordPress\wp-content\themes\online-shop\functions.php on line 39
+
+2020-10-01T08:09:00+00:00 CRITICAL syntax error, unexpected '>' in C:\xampp\htdocs\Projects\WordPress\wp-content\themes\online-shop\woocommerce\myaccount\dashboard.php on line 36
+
+2020-10-01T08:09:08+00:00 CRITICAL syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\Projects\WordPress\wp-content\themes\online-shop\woocommerce\myaccount\dashboard.php on line 36
+

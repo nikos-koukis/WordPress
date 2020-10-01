@@ -14,5 +14,3 @@
 require_once trailingslashit( get_template_directory() ) . 'acmethemes/init.php';
 
 
-
-
