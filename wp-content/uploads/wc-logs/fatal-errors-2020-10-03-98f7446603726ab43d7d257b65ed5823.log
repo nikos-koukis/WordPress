@@ -1,0 +1,60 @@
+2020-10-03T08:02:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::get_field_id(), 0 passed in C:\xampp\htdocs\Projects\WordPress\wp-content\plugins\custom-widget\wp-custom-widget.php on line 35 and exactly 1 expected in C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php:230
+Stack trace:
+#0 C:\xampp\htdocs\Projects\WordPress\wp-content\plugins\custom-widget\wp-custom-widget.php(35): WP_Widget->get_field_id()
+#1 C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php(519): MyCustomeWidget->form(Array)
+#2 C:\xampp\htdocs\Projects\WordPress\wp-admin\includes\widgets.php(274): WP_Widget->form_callback(Array)
+#3 C:\xampp\htdocs\Projects\WordPress\wp-admin\includes\widgets.php(60): wp_widget_control(Array, Array)
+#4 C:\xampp\htdocs\Projects\WordPress\wp-admin\widgets.php(448): wp_list_widgets()
+#5 {main}
+  thrown in C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php on line 230
+
+2020-10-03T08:02:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::get_field_id(), 0 passed in C:\xampp\htdocs\Projects\WordPress\wp-content\plugins\custom-widget\wp-custom-widget.php on line 35 and exactly 1 expected in C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php:230
+Stack trace:
+#0 C:\xampp\htdocs\Projects\WordPress\wp-content\plugins\custom-widget\wp-custom-widget.php(35): WP_Widget->get_field_id()
+#1 C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php(519): MyCustomeWidget->form(Array)
+#2 C:\xampp\htdocs\Projects\WordPress\wp-admin\includes\widgets.php(274): WP_Widget->form_callback(Array)
+#3 C:\xampp\htdocs\Projects\WordPress\wp-admin\includes\widgets.php(60): wp_widget_control(Array, Array)
+#4 C:\xampp\htdocs\Projects\WordPress\wp-admin\widgets.php(448): wp_list_widgets()
+#5 {main}
+  thrown in C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php on line 230
+
+2020-10-03T08:02:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::get_field_id(), 0 passed in C:\xampp\htdocs\Projects\WordPress\wp-content\plugins\custom-widget\wp-custom-widget.php on line 35 and exactly 1 expected in C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php:230
+Stack trace:
+#0 C:\xampp\htdocs\Projects\WordPress\wp-content\plugins\custom-widget\wp-custom-widget.php(35): WP_Widget->get_field_id()
+#1 C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php(519): MyCustomeWidget->form(Array)
+#2 C:\xampp\htdocs\Projects\WordPress\wp-admin\includes\widgets.php(274): WP_Widget->form_callback(Array)
+#3 C:\xampp\htdocs\Projects\WordPress\wp-admin\includes\widgets.php(60): wp_widget_control(Array, Array)
+#4 C:\xampp\htdocs\Projects\WordPress\wp-admin\widgets.php(448): wp_list_widgets()
+#5 {main}
+  thrown in C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php on line 230
+
+2020-10-03T08:05:29+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::get_field_id(), 0 passed in C:\xampp\htdocs\Projects\WordPress\wp-content\plugins\custom-widget\wp-custom-widget.php on line 35 and exactly 1 expected in C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php:230
+Stack trace:
+#0 C:\xampp\htdocs\Projects\WordPress\wp-content\plugins\custom-widget\wp-custom-widget.php(35): WP_Widget->get_field_id()
+#1 C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php(519): MyCustomeWidget->form(Array)
+#2 C:\xampp\htdocs\Projects\WordPress\wp-admin\includes\widgets.php(274): WP_Widget->form_callback(Array)
+#3 C:\xampp\htdocs\Projects\WordPress\wp-admin\includes\widgets.php(60): wp_widget_control(Array, Array)
+#4 C:\xampp\htdocs\Projects\WordPress\wp-admin\widgets.php(448): wp_list_widgets()
+#5 {main}
+  thrown in C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php on line 230
+
+2020-10-03T08:06:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::get_field_id(), 0 passed in C:\xampp\htdocs\Projects\WordPress\wp-content\plugins\custom-widget\wp-custom-widget.php on line 35 and exactly 1 expected in C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php:230
+Stack trace:
+#0 C:\xampp\htdocs\Projects\WordPress\wp-content\plugins\custom-widget\wp-custom-widget.php(35): WP_Widget->get_field_id()
+#1 C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php(519): MyCustomeWidget->form(Array)
+#2 C:\xampp\htdocs\Projects\WordPress\wp-admin\includes\widgets.php(274): WP_Widget->form_callback(Array)
+#3 C:\xampp\htdocs\Projects\WordPress\wp-admin\includes\widgets.php(60): wp_widget_control(Array, Array)
+#4 C:\xampp\htdocs\Projects\WordPress\wp-admin\widgets.php(448): wp_list_widgets()
+#5 {main}
+  thrown in C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php on line 230
+
+2020-10-03T08:07:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::get_field_id(), 0 passed in C:\xampp\htdocs\Projects\WordPress\wp-content\plugins\custom-widget\wp-custom-widget.php on line 35 and exactly 1 expected in C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php:230
+Stack trace:
+#0 C:\xampp\htdocs\Projects\WordPress\wp-content\plugins\custom-widget\wp-custom-widget.php(35): WP_Widget->get_field_id()
+#1 C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php(519): MyCustomeWidget->form(Array)
+#2 C:\xampp\htdocs\Projects\WordPress\wp-admin\includes\widgets.php(274): WP_Widget->form_callback(Array)
+#3 C:\xampp\htdocs\Projects\WordPress\wp-admin\includes\widgets.php(60): wp_widget_control(Array, Array)
+#4 C:\xampp\htdocs\Projects\WordPress\wp-admin\widgets.php(448): wp_list_widgets()
+#5 {main}
+  thrown in C:\xampp\htdocs\Projects\WordPress\wp-includes\class-wp-widget.php on line 230
+
